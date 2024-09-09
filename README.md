@@ -41,13 +41,13 @@ Welcome to **Arkanoid Game**, a fun and classic brick-breaking game implemented 
 ![צילום מסך 2024-09-09 194245](https://github.com/user-attachments/assets/f1f85efd-cfd5-4384-bd25-84d7174ca408)
 
 ### Gameplay
-# Level 1
+- Level 1
 ![צילום מסך 2024-09-09 194449](https://github.com/user-attachments/assets/ac37bd61-b671-49dd-a7b6-e3227426d10a)
 
-# Level 2
+- Level 2
 ![צילום מסך 2024-09-09 195048](https://github.com/user-attachments/assets/ab1a4df4-b3ca-4fa5-a509-725f5f27361a)
 
-# Level 3
+- Level 3
 ![צילום מסך 2024-09-09 195406](https://github.com/user-attachments/assets/187da6be-f526-4810-b3c0-936e8cf09508)
 
 ### Winner Screen
