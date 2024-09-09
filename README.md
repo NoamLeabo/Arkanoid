@@ -47,10 +47,9 @@ Welcome to **Arkanoid Game**, a fun and classic brick-breaking game implemented 
 
 ![צילום מסך 2024-09-09 195406](https://github.com/user-attachments/assets/187da6be-f526-4810-b3c0-936e8cf09508)
 
-### Winner Screen
+### End Screens
 ![צילום מסך 2024-09-09 200318](https://github.com/user-attachments/assets/59f37b9e-415b-4f1e-9dbf-568fa1a4c8d2)
 
-### Game Over Screen
 ![צילום מסך 2024-09-09 195643](https://github.com/user-attachments/assets/fcb31226-0c79-44b7-ab49-3a2472c847cf)
 
 
