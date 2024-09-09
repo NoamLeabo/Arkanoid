@@ -1,4 +1,4 @@
-# 🧱 Arkanoid Game - Java Edition
+# 🧱 Arkanoid Game - OOP Java Edition
 
 Welcome to **Arkanoid Game**, a fun and classic brick-breaking game implemented in Java. This project showcases the use of Object-Oriented Programming (OOP) principles while delivering an interactive and challenging game experience with multiple levels and power-ups.
 
