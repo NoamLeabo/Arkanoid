@@ -15,7 +15,7 @@ Welcome to **Arkanoid Game**, a fun and classic brick-breaking game implemented 
 ## 🛠️ Technologies Used
 
 - **Java:** Core programming language
-- **Swing & AWT:** For graphical user interface rendering
+- **Design Patterns:** Massive use of Listener-Notifier in order to have a smooth reactions to events without having a too tight class relations 
 - **OOP Concepts:** Classes, inheritance, encapsulation, and polymorphism are at the heart of the game’s structure.
 
 ## 🚀 How to Run
