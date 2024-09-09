@@ -64,10 +64,6 @@ Welcome to **Arkanoid Game**, a fun and classic brick-breaking game implemented 
 - **Polymorphism:** Methods for handling collisions and game logic use polymorphism to manage various types of interactions.
 - **Abstraction:** The game's core mechanics and rendering logic are abstracted from the user interface to ensure a clean and manageable codebase.
 
-## 🙌 Notes
-- **Graphics:** Custom game assets created for a unique visual style.
-- **Development Tools:** Java, Swing, IntelliJ IDEA
-
 ## 🚧 Future Improvements
 - Add more levels and challenges.
 - Introduce new power-ups and block types.
