@@ -20,6 +20,12 @@ Welcome to **Arkanoid Game**, a fun and classic brick-breaking game implemented 
 
 ## 🚀 How to Run
 
-1. Ensure that **Java JDK 8** or higher is installed on your machine.
-2. Download the **GAME.jar** file from the repository.
-3. Open a terminal or command prompt and navigate to the folder
+1. Make sure you have **Java JDK 8** or higher installed on your system.
+2. Download the **GAME.jar** file from the repository
+3. You can now simply click on the download file anf play! 
+4. Another option - Open a terminal or command prompt and navigate to the directory containing the **GAME.jar** file.
+5. Run the following command:
+
+   ```bash
+   java -jar GAME.jar
+6. The game window should open, and you can start playing!
