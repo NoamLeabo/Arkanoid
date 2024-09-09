@@ -29,3 +29,53 @@ Welcome to **Arkanoid Game**, a fun and classic brick-breaking game implemented 
    ```bash
    java -jar GAME.jar
 6. The game window should open, and you can start playing!
+
+## 🕹️ Controls
+- **Arrow keys** - Control the paddle’s movement.
+- **Spacebar** - Launch and resume the game.
+- **P** - Pause the game.
+
+## 📸 Screenshots
+
+### Main Menu
+![צילום מסך 2024-09-09 194245](https://github.com/user-attachments/assets/f1f85efd-cfd5-4384-bd25-84d7174ca408)
+
+### Gameplay
+** Level 1
+![צילום מסך 2024-09-09 194449](https://github.com/user-attachments/assets/ac37bd61-b671-49dd-a7b6-e3227426d10a)
+
+** Level 2
+![צילום מסך 2024-09-09 195048](https://github.com/user-attachments/assets/ab1a4df4-b3ca-4fa5-a509-725f5f27361a)
+
+** Level 3
+![צילום מסך 2024-09-09 195406](https://github.com/user-attachments/assets/187da6be-f526-4810-b3c0-936e8cf09508)
+
+### Winner Screen
+![צילום מסך 2024-09-09 200318](https://github.com/user-attachments/assets/59f37b9e-415b-4f1e-9dbf-568fa1a4c8d2)
+
+### Game Over Screen
+![צילום מסך 2024-09-09 195643](https://github.com/user-attachments/assets/fcb31226-0c79-44b7-ab49-3a2472c847cf)
+
+
+## 🧑‍💻 Project Structure
+- **src/**: Contains the Java source code for the game.
+- **resources/**: Stores images and other assets like block and paddle graphics.
+- **GAME.jar**: The executable JAR file that launches the game.
+
+## 💡 Key OOP Concepts Explored
+- **Encapsulation:** Game entities such as the ball, paddle, and blocks are encapsulated into separate classes to manage their properties and behaviors.
+- **Inheritance:** Common features and behaviors are inherited by different game objects, such as different types of blocks.
+- **Polymorphism:** Methods for handling collisions and game logic use polymorphism to manage various types of interactions.
+- **Abstraction:** The game's core mechanics and rendering logic are abstracted from the user interface to ensure a clean and manageable codebase.
+
+## 🙌 Notes
+- **Graphics:** Custom game assets created for a unique visual style.
+- **Development Tools:** Java, Swing, IntelliJ IDEA
+
+## 🚧 Future Improvements
+- Add more levels and challenges.
+- Introduce new power-ups and block types.
+- Implement sound effects and background music for an enhanced gaming experience.
+
+Enjoy playing Arkanoid! 🧱🎮
+
