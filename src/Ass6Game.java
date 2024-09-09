@@ -62,7 +62,6 @@ public class Ass6Game {
             gameFlow.runLevels(informations);
         } else {
             //if there are no levels received we simply run the basic 3
-            informations.add(gameLevel2);
             informations.add(gameLevel3);
             informations.add(gameLevel4);
             gameFlow.runLevels(informations);

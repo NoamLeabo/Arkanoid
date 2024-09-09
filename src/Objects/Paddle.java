@@ -290,7 +290,7 @@ public class Paddle implements Sprite, Collidable, HitNotifier {
         if (top.pointInLine(collisionPoint)) {
             //x - check which part of the paddle the ball hits
             int x = (int) paddle.getUpperLeft().getX();
-            int y = width / 5;
+            int y = width / 9;
             // we calculate the speed vector
             double vector =
                     Math.pow(currentVelocity.getDx(), M2)
@@ -301,13 +301,25 @@ public class Paddle implements Sprite, Collidable, HitNotifier {
                 return Velocity.fromAngleAndSpeed(-M60, speed);
             }
             if (collisionPoint.getX() <= x + 2 * y) {
-                return Velocity.fromAngleAndSpeed(-M30, speed);
+                return Velocity.fromAngleAndSpeed(-45, speed);
             }
             if (collisionPoint.getX() <= x + 3 * y) {
-                return Velocity.fromAngleAndSpeed(0, speed);
+                return Velocity.fromAngleAndSpeed(-M30, speed);
             }
             if (collisionPoint.getX() <= x + 4 * y) {
+                return Velocity.fromAngleAndSpeed(-15, speed);
+            }
+            if (collisionPoint.getX() <= x + 5 * y) {
+                return Velocity.fromAngleAndSpeed(0, speed);
+            }
+            if (collisionPoint.getX() <= x + 6 * y) {
+                return Velocity.fromAngleAndSpeed(15, speed);
+            }
+            if (collisionPoint.getX() <= x + 7 * y) {
                 return Velocity.fromAngleAndSpeed(M30, speed);
+            }
+            if (collisionPoint.getX() <= x + 8 * y) {
+                return Velocity.fromAngleAndSpeed(45, speed);
             }
             if (collisionPoint.getX() <= x + width) {
                 return Velocity.fromAngleAndSpeed(M60, speed);
